@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Jack Dickinson",
 	"description":"A project to learn about the package.json file",
-	"keywords":["npm","package.json","node.js"],
+	"keywords":["npm","package.json","node.js","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
